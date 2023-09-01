@@ -4,6 +4,7 @@ body{
     font-size: 1.2rem;
     font-family: 'Open Sans', sans-serif;
     line-height: 1.65;
+    border: #dee1e3;
 }
 /* #25a2c3 – Montserrat (bold) – interlinea 1.5
  */
@@ -82,4 +83,35 @@ button{
 
 .info{
     padding-bottom: 30px;
+}
+/* garanzie */
+#garanzie{
+    text-align: center;
+    background-color: #e22d0e;
+    padding: 122px;
+}
+
+
+#garanzie h2{
+    font-size: 80px;
+    color: white;
+    padding-bottom: 50px;
+    font-weight: bolder;
+}
+
+#garanzie i{
+    font-style: italic;
+    color: white;
+    font-size: 37px;
+    padding-top: 90px;
+}
+
+#garanzie p{
+    color: white;
+    font-size: 50px;
+    line-height: 1;
+}
+
+#mario{
+    font-size: 35px;
 }
