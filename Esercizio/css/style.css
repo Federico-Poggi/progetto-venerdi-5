@@ -1,1 +1,65 @@
-/* Your styles here */
+/* Generali */
+body{
+    color: #393d41;
+    font-size: 1.2rem;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.65;
+}
+/* #25a2c3 – Montserrat (bold) – interlinea 1.5
+ */
+ .headings{
+    color: #25a2c3;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    font-weight: bold;
+ }
+/* logo */
+#logo{
+    background-color: black;
+    text-align: center;
+    padding: 8.5%;
+}
+
+#logo img{
+    height: 4.5vh;
+}
+/* Header */
+#motivo{
+    background-image: url(../images/banner.jpg);
+    background-size:cover;
+    background-position: center;
+    text-align: center;
+    padding: 100px 50px 50px;
+}
+
+
+h1{
+    font-size: 80px;
+    line-height: 1 !important;
+    padding-bottom: 50px;
+}
+
+#motivo p{
+    font-size: 45px;
+    width: 95%;
+    padding-bottom: 50px;
+    font-weight: 500;
+}
+
+button{
+    height: 110px;
+    width: 350px;
+    background-color: #f04c2f;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+    border: none;
+    border-radius: 5%;
+    color: white;
+    
+}
+
+#button{
+    padding: 2em;
+}
+
