@@ -89,6 +89,7 @@ button{
     text-align: center;
     background-color: #e22d0e;
     padding: 122px;
+    margin-top: 125px;
 }
 
 
@@ -110,8 +111,35 @@ button{
     color: white;
     font-size: 50px;
     line-height: 1;
+    padding-top: 60px;
 }
+
 
 #mario{
     font-size: 35px;
 }
+
+#obbiettivi-corso{
+    margin: 50px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.img-container img{
+    width: -webkit-fill-available;
+}
+
+.img-container{
+    border: 1px solid #dee1e3;
+    margin-top: 80px;
+}
+
+#obbiettivi-corso p{
+    padding-right: 1.5em;
+    /* padding: 1em; */
+    padding-bottom: 2em;
+    padding-left: 1.5em;
+}
+#obbiettivi-corso h3{
+    padding-top: 1em;
+} 
