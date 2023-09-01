@@ -143,3 +143,35 @@ button{
 #obbiettivi-corso h3{
     padding-top: 1em;
 } 
+/* footer */
+
+footer{
+    text-align: center;
+    background-color: #25a2c3;
+    color: #c8e7f0;
+    font-size: 40px;
+    padding: 80px;
+    padding-bottom: 150px;
+    margin-top: 130px;
+}
+
+footer h2{
+    color: white;
+    font-size: 80px;
+    font-weight: bolder;
+}
+
+hr{
+    margin: 80px;
+}
+
+a{
+    color:#c8e7f0;
+}
+
+#copy{
+    font-size: 35px;
+}
+#copy span{
+    text-decoration: underline;
+}
