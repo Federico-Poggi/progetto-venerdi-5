@@ -45,7 +45,9 @@ h1{
     font-weight: 500;
 }
 
-button{
+
+
+input{
     height: 110px;
     width: 342px;
     background-color: #f04c2f;
@@ -55,13 +57,11 @@ button{
     border: none;
     border-radius: 7%;
     color: white;
-    
+    margin-top: 90px;
+    margin-bottom: 90px;
 }
 
-#button{
-    padding-top: 80px;
-    padding-bottom: 45px;
-}
+
 /* parte centrale */
 #info-lavoro{
     text-align: center;
