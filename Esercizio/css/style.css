@@ -72,4 +72,14 @@ button{
 #info-lavoro img{
     border-radius: 60%;
     width: 68vw;
+    padding: 20px 0;
+}
+
+#info-lavoro h2{
+   padding-top: 30px;
+   padding-bottom: 20px;
+}
+
+.info{
+    padding-bottom: 30px;
 }
